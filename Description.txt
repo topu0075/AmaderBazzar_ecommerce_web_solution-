@@ -1,0 +1,6 @@
+AmaderBazar is an ecommerce webapplication. bulid using node.js(backend) react.js(frontend) and mongodb (database.
+I bulid this 'web-application' project as an academic project. You can buy & sell product by using this web-application.
+
+Start command:
+to start the use "npm run dev"
+
